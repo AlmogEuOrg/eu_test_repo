@@ -1,0 +1,7 @@
+spring:
+  registration:
+    b3c7fd16-77e6-4375-b02c-f5b177174d0e:
+      client-id: 3cfdf7b6-3ad3-4f5c-bbf6-d846faeb9da9
+      client-secret: uOKp4DY.v4-g3o1Ywx~1Rh6aADZ4JHy-gV
+      client-authentication-method: client_secret_post
+      authorization-grant-type: client_credentials
